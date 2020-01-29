@@ -1,5 +1,5 @@
 a=int(input("enter the number:"))
-for i in range(0,50):
+for i in range(0,a):
     if (i%2==0):
       print(i)
       
